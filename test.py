@@ -6,3 +6,4 @@ print('O jestem')
 print('kolejne')
 print('zmiana master i github')
 #comment
+#comment 2
